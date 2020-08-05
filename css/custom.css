@@ -1,0 +1,158 @@
+span{
+  padding-left: 1rem;
+}
+a{
+  color: #fff;
+}
+a:hover {
+  color: #4d3e3e;
+}
+.ar{
+  color: #4d3e3e;
+}
+.ar:hover{
+    color: #6886c5;
+}
+.mar{
+  margin-top: 86px;
+}
+.image{
+  height: 100%;
+}
+.division{
+  background-color: #ef8172;
+margin: 20px 20px;
+  text-align: center;
+  color: #fff;
+}
+.cont{
+  padding: 30px 30px;
+}
+.para{
+  padding: 30px 0;
+}
+.div1{
+  background-color: #f2ed6f;
+  color: #363062;
+  font-family:  'Montserrat', sans-serif;
+padding-left: 30px;
+padding-top: 20px;
+}
+.para1{
+  padding-top: 90px;
+  padding-left: 40px;
+}
+.para2{
+  padding-left: 40px;
+
+}
+.skills{
+  background-color: #f0f0f0;
+  padding-bottom: 30px;
+}
+.skill1-img{
+  float: left;
+  height: 100px;
+  width: 100px;
+}
+.skill2-img{
+  float: right;
+  height: 100px;
+  width: 100px;
+}
+.skill-1{
+  text-align: left;
+  padding: 30px 0 30px 10%;
+  font-family:  'Montserrat', sans-serif;
+}
+.skill-2{
+  text-align: right;
+  padding: 30px 10% 30px 0;
+  font-family:  'Montserrat', sans-serif;
+}
+.pa{
+  margin: 2% 15%;
+  padding: 0 inherit;
+}
+#sec{
+  padding: 100px;
+}
+#backgroundimage
+{
+   height: auto;
+   left: 0;
+   margin: 0;
+   min-height: 100%;
+   min-width: 674px;
+   padding: 0;
+   position: fixed;
+   top: 0;
+   width: 100%;
+   z-index: -1;
+}
+.divider{
+  background-color:  #f0f0f0;
+
+  text-align: left;
+  padding: 30px 0 30px 5%;
+  font-family:  'Montserrat', sans-serif;
+  line-height: 40px;
+}
+.div-img{
+  position: absolute;
+  right: 30px;
+  height: 250px;
+  width: 250px;
+  margin: 80px 30% 30px 1%;
+  transform: rotate(30deg);
+}
+
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ffe8df;
+
+}
+.f{
+  margin: 20px 10px;
+}
+
+#p{
+  color: #888888;
+}
+@media (max-width:880px){
+  .div-img{
+    display: none;
+  }
+}
+.vid1{
+  margin: 100px auto 5% 10%;
+}
+.imagess{
+  margin: 5% auto;
+}
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+.b{
+  margin-bottom: 20px;
+}

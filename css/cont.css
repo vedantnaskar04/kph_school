@@ -1,0 +1,21 @@
+body{
+background-color: #EAF6F6;
+text-align: center;
+}
+h1{
+color: #27496d;
+padding-top: 7%;
+padding-bottom: 5%;
+}
+p{
+  color: #27496d;
+  text-align: left;
+  padding-left: 15%;
+}
+hr{
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+    width: 10%;
+    border-width: 5px;
+}
